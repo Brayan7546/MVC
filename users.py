@@ -1,7 +1,7 @@
 users =[
-    {"nombre":"Marcela Castro","telefono":666777,"edad":20},
-    {"nombre":"Carlos Paez","telefono":727783,"edad":17},
-    {"nombre":"Carolina Antequera","telefono":123717,"edad":33},
-    {"nombre":"Daniela Vaquero","telefono":883716,"edad":18},
-    {"nombre":"Javier Camacho","telefono":837265,"edad":40},
+    {"nombre":"Geraldin Rodriguez","telefono":674345,"edad":17},
+    {"nombre":"Luis Petro","telefono":664543,"edad":20},
+    {"nombre":"Andrea Herrera","telefono":765435,"edad":30},
+    {"nombre":"Pablo Pinto","telefono":876556,"edad":24},
+    {"nombre":"Brayan Tovar","telefono":688667,"edad":32},
 ]
